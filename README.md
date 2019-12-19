@@ -1,2 +1,2 @@
-# everything
-Beginning the transition to data science from public health as an epidemiologist.
+# Beginning
+the transition to data science from public health as an epidemiologist.
